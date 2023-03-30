@@ -1,0 +1,17 @@
+* {
+
+    margin: 0;
+    padding: 0;
+    block-size: border-box;
+}
+
+h1 {
+
+    color: #0000FF;
+}
+
+h2 {
+
+    color: #00FF00;
+    
+}
